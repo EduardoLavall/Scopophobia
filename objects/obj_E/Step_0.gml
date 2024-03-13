@@ -1,0 +1,1 @@
+if distance_to_object(obj_player_hitbox) > 20 {instance_destroy()}

@@ -1,0 +1,1 @@
+lv_text_id = "npc 1"
